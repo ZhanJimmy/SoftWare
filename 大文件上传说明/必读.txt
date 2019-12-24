@@ -1,0 +1,8 @@
+1、先通过此地址（https://git-lfs.github.com lfs）下载  Git Large File Storage 并安装
+2、进入git仓库地址，右键->Git Bash Here
+3、输入命令：git lfs install  安装
+4、输入命令：git lfs track "*.rar" 添加大文件类型
+5、输入命令：git add .gitattributes  添加属性
+6、上述操作完成后，即可按照正常操作进行
+
+注意：大文件 必须小于 2G
