@@ -1,0 +1,13 @@
+ILSpy 版本 2.3.0.0
+
+ILSpy 是一个开源的 .NET 浏览器和反编译工具。
+官方网站: http://www.ilspy.net/
+中文版官方网站： http://www.fishlee.net/soft/ilspy_chs/
+
+ILSPY中文MOD版由木魚（iFish）修订发布
+官方网站： http://www.fishlee.net/soft/ilspy_chs/
+
+反馈意见或问题请前往：
+问答社区： http://ask.fishlee.net/
+或
+论坛：http://bbs.fishlee.net/
